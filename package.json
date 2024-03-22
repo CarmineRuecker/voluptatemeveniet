@@ -1,0 +1,39 @@
+{
+  "name": "voluptatemeveniet",
+  "version": "1.0.0",
+  "description": "YouTube, SoundCloud, Spotify streaming for discord.js bots",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "directories": {
+    "example": "examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CarmineRuecker/voluptatemeveniet.git"
+  },
+  "keywords": [
+    "cum",
+    "youtube-dl",
+    "yt-dl",
+    "enim",
+    "suscipit",
+    "rerum",
+    "commodi",
+    "soundcloud"
+  ],
+  "author": "JohnnyTrantow",
+  "license": "GPL-3.0",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "files": [
+    "dist/*"
+  ],
+  "devDependencies": {
+    "@types/node": "^16.9.4",
+    "prettier": "^2.3.1",
+    "typedoc": "^0.22.9",
+    "typedoc-plugin-missing-exports": "^0.22.4",
+    "typescript": "^4.4.4"
+  }
+}
